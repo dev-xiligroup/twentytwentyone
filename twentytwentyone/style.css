@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/*
+Theme Name: Twenty Twenty-One xili
+Theme URI: https://github.com/WordPress/twentytwentyone
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: A multilingual child theme of a bundled new Gutenberg-ready theme by xiligroup.
+Requires at least: WordPress 5.x
+Version: 1.2
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: twentytwentyone
+Tags: multilingual, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+Template: twentytwentyone
+
+Domain Path: /langs
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Twenty Twentyone is based on Underscores https://underscores.me/, (C) 2012-2018 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/* 20210408 - 1.2 version for WP 5.7 and beta tests */
+/* 20210310 - 1.2 version for WP 5.7 and beta tests */
+
+
+/* the most important line of the style.css of a child from his parent twentytwentyone */
+/* @import url('../twentytwentyone/style.css'); - now set in functions.php
+*/
+
+.widget-area span.xili-s-radio, .widget-area label, .widget-area input[type="radio"] {
+	font-size: calc(.8 * var(--footer--font-size));
+}
+.widget-area span.xili-s-radio {
+	padding-left:6px;
+}
+.widget-area span.radio-lang::after {
+	content: '\00a0';
+}
+.widget-area span.radio-lang input {
+	margin-right:3px;
+}

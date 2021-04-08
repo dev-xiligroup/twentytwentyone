@@ -1,0 +1,788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: theme = twentynineteen-xili\n"
+"Report-Msgid-Bugs-To: contact@xiligroup.com\n"
+"POT-Creation-Date: 2019-05-23T09:21:05+00:00\n"
+"PO-Revision-Date: 2019-06-19 10:32+0200\n"
+"Last-Translator: dev.xiligroup <contact@xiligroup.com>\n"
+"Language-Team: xili-dictionary WP plugin and  <team@xiligroup.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#. [local]
+#: comment-template.php:31
+#, php-format
+msgid "Anonymous"
+msgstr "Anonymous en_us"
+
+#. [local] translators: %s: number of comments
+#: comment-template.php:903 comment-template.php:917
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. [local] translators: If comment number in your language requires declension,
+#. * translate this to 'on'. Do not translate into your own language.
+#: comment-template.php:909
+#, php-format
+msgctxt "Comment number declension: on or off"
+msgid "off"
+msgstr ""
+
+#. [local]
+#: comment-template.php:930
+#, php-format
+msgid "No Comments"
+msgstr ""
+
+#. [local]
+#: comment-template.php:932
+#, php-format
+msgid "1 Comment"
+msgstr ""
+
+#. [local]
+#: comment-template.php:1097
+#, php-format
+msgid "Trackback"
+msgstr ""
+
+#. [local]
+#: comment-template.php:1100
+#, php-format
+msgid "Pingback"
+msgstr ""
+
+#. [local] translators: %s: get_trackback_url()
+#: comment-template.php:1159
+#, php-format
+msgid "Use %s instead if you do not want the value echoed."
+msgstr ""
+
+#. [local] translators: %s: post title
+#: comment-template.php:1536
+#, php-format
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. [local] translators: %s: post title
+#: comment-template.php:1541
+#, php-format
+msgid "1 Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. [local] translators: 1: number of comments, 2: post title
+#: comment-template.php:1546
+#, php-format
+msgid "%1$s Comment<span class=\"screen-reader-text\"> on %2$s</span>"
+msgid_plural "%1$s Comments<span class=\"screen-reader-text\"> on %2$s</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. [local] translators: %s: post title
+#: comment-template.php:1552
+#, php-format
+msgid "Comments Off<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. [local]
+#: comment-template.php:1561
+#, php-format
+msgid "Enter your password to view comments."
+msgstr ""
+
+#. [local]
+#: comment-template.php:1633
+#, php-format
+msgid "Reply"
+msgstr ""
+
+#. [local] translators: Comment reply button text. %s: Comment author name
+#: comment-template.php:1635
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#. [local]
+#: comment-template.php:1636
+#, php-format
+msgid "Log in to Reply"
+msgstr ""
+
+#. [local]
+#: comment-template.php:1769
+#, php-format
+msgid "Leave a Comment"
+msgstr ""
+
+#. [local]
+#: comment-template.php:1770
+#, php-format
+msgid "Log in to leave a Comment"
+msgstr ""
+
+#. [local]
+#: comment-template.php:1843
+#, php-format
+msgid "Click here to cancel reply."
+msgstr ""
+
+#. [local]
+#: comment-template.php:2290
+#, php-format
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#. [local] bloginfo - blogname
+#, php-format
+msgid "test WP 50"
+msgstr ""
+
+#. [local] bloginfo - description
+#, php-format
+msgid "Un site utilisant WordPress"
+msgstr ""
+
+#. [local] bloginfo - time_format
+#, php-format
+msgid "G \\\\h i \\\\m\\\\i\\\\n"
+msgstr ""
+
+#. [local] bloginfo - date_format
+#, php-format
+msgid "j F Y"
+msgstr ""
+
+#. [local] comment_form_labels name
+#, php-format
+msgid "Name"
+msgstr ""
+
+#. [local] comment_form_labels email
+#, php-format
+msgid "Email"
+msgstr ""
+
+#. [local] comment_form_labels website
+#, php-format
+msgid "Website"
+msgstr ""
+
+#. [local] comment_form_labels comment
+#, php-format
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#. [local] comment_form_labels youmustbe
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. [local] comment_form_labels loggedinas
+#, php-format
+msgid "<a href=\"%1$s\" aria-label=\"%2$s\">Logged in as %3$s</a>. <a href=\"%4$s\">Log out?</a>"
+msgstr ""
+
+#. [local] comment_form_labels loggedinas_edit
+#, php-format
+msgid "Logged in as %s. Edit your profile."
+msgstr ""
+
+#. [local] comment_form_labels emailnotpublished
+#, php-format
+msgid "Your email address will not be published."
+msgstr ""
+
+#. [local] comment_form_labels requiredmarked
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#. [local] comment_form_labels leavereply
+#, php-format
+msgid "Leave a Reply"
+msgstr ""
+
+#. [local] comment_form_labels replyto
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. [local] comment_form_labels cancelreply
+#, php-format
+msgid "Cancel reply"
+msgstr ""
+
+#. [local] comment_form_labels postcomment
+#, php-format
+msgid "Post Comment"
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "Protected: %s"
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "Private: %s"
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "(more&hellip;)"
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "Pages:"
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "Next page"
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "Previous page"
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "This content is password protected. To view it please enter your password below:"
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "Password:"
+msgstr ""
+
+#. [local] post-template
+#, php-format
+msgid "Submit"
+msgstr ""
+
+#. [local] language with ISO en_US
+#, php-format
+msgid "English"
+msgstr ""
+
+#. [local] language with ISO en_US ctxt=linktitle
+#, php-format
+msgctxt "linktitle"
+msgid "English"
+msgstr ""
+
+#. [local] language with ISO en_US ctxt=otherposts
+#, php-format
+msgctxt "otherposts"
+msgid "English"
+msgstr ""
+
+#. [local] language with ISO en_US ctxt=searchform
+#, php-format
+msgctxt "searchform"
+msgid "English"
+msgstr ""
+
+#. [local] language with ISO fr_FR
+#, php-format
+msgid "French"
+msgstr ""
+
+#. [local] language with ISO fr_FR ctxt=linktitle
+#, php-format
+msgctxt "linktitle"
+msgid "French"
+msgstr ""
+
+#. [local] language with ISO fr_FR ctxt=otherposts
+#, php-format
+msgctxt "otherposts"
+msgid "French"
+msgstr ""
+
+#. [local] language with ISO fr_FR ctxt=searchform
+#, php-format
+msgctxt "searchform"
+msgid "French"
+msgstr ""
+
+#. [local] language with ISO de_DE
+#, php-format
+msgid "German"
+msgstr ""
+
+#. [local] language with ISO de_DE ctxt=linktitle
+#, php-format
+msgctxt "linktitle"
+msgid "German"
+msgstr ""
+
+#. [local] language with ISO de_DE ctxt=otherposts
+#, php-format
+msgctxt "otherposts"
+msgid "German"
+msgstr ""
+
+#. [local] language with ISO de_DE ctxt=searchform
+#, php-format
+msgctxt "searchform"
+msgid "German"
+msgstr ""
+
+#. [local] wp_locale Sunday
+#, php-format
+msgid "Sunday"
+msgstr ""
+
+#. [local] wp_locale Monday
+#, php-format
+msgid "Monday"
+msgstr ""
+
+#. [local] wp_locale Tuesday
+#, php-format
+msgid "Tuesday"
+msgstr ""
+
+#. [local] wp_locale Wednesday
+#, php-format
+msgid "Wednesday"
+msgstr ""
+
+#. [local] wp_locale Thursday
+#, php-format
+msgid "Thursday"
+msgstr ""
+
+#. [local] wp_locale Friday
+#, php-format
+msgid "Friday"
+msgstr ""
+
+#. [local] wp_locale Saturday
+#, php-format
+msgid "Saturday"
+msgstr ""
+
+#. [local] wp_locale S_Sunday_initial
+#, php-format
+msgid "S_Sunday_initial"
+msgstr ""
+
+#. [local] wp_locale M_Monday_initial
+#, php-format
+msgid "M_Monday_initial"
+msgstr ""
+
+#. [local] wp_locale T_Tuesday_initial
+#, php-format
+msgid "T_Tuesday_initial"
+msgstr ""
+
+#. [local] wp_locale W_Wednesday_initial
+#, php-format
+msgid "W_Wednesday_initial"
+msgstr ""
+
+#. [local] wp_locale T_Thursday_initial
+#, php-format
+msgid "T_Thursday_initial"
+msgstr ""
+
+#. [local] wp_locale F_Friday_initial
+#, php-format
+msgid "F_Friday_initial"
+msgstr ""
+
+#. [local] wp_locale S_Saturday_initial
+#, php-format
+msgid "S_Saturday_initial"
+msgstr ""
+
+#. [local] wp_locale Sun
+#, php-format
+msgid "Sun"
+msgstr ""
+
+#. [local] wp_locale Mon
+#, php-format
+msgid "Mon"
+msgstr ""
+
+#. [local] wp_locale Tue
+#, php-format
+msgid "Tue"
+msgstr ""
+
+#. [local] wp_locale Wed
+#, php-format
+msgid "Wed"
+msgstr ""
+
+#. [local] wp_locale Thu
+#, php-format
+msgid "Thu"
+msgstr ""
+
+#. [local] wp_locale Fri
+#, php-format
+msgid "Fri"
+msgstr ""
+
+#. [local] wp_locale Sat
+#, php-format
+msgid "Sat"
+msgstr ""
+
+#. [local] wp_locale January
+#, php-format
+msgid "January"
+msgstr ""
+
+#. [local] wp_locale February
+#, php-format
+msgid "February"
+msgstr ""
+
+#. [local] wp_locale March
+#, php-format
+msgid "March"
+msgstr ""
+
+#. [local] wp_locale April
+#, php-format
+msgid "April"
+msgstr ""
+
+#. [local] wp_locale May
+#, php-format
+msgid "May"
+msgstr ""
+
+#. [local] wp_locale June
+#, php-format
+msgid "June"
+msgstr ""
+
+#. [local] wp_locale July
+#, php-format
+msgid "July"
+msgstr ""
+
+#. [local] wp_locale August
+#, php-format
+msgid "August"
+msgstr ""
+
+#. [local] wp_locale September
+#, php-format
+msgid "September"
+msgstr ""
+
+#. [local] wp_locale October
+#, php-format
+msgid "October"
+msgstr ""
+
+#. [local] wp_locale November
+#, php-format
+msgid "November"
+msgstr ""
+
+#. [local] wp_locale December
+#, php-format
+msgid "December"
+msgstr ""
+
+#. [local] wp_locale Jan_January_abbreviation
+#, php-format
+msgid "Jan_January_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Feb_February_abbreviation
+#, php-format
+msgid "Feb_February_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Mar_March_abbreviation
+#, php-format
+msgid "Mar_March_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Apr_April_abbreviation
+#, php-format
+msgid "Apr_April_abbreviation"
+msgstr ""
+
+#. [local] wp_locale May_May_abbreviation
+#, php-format
+msgid "May_May_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Jun_June_abbreviation
+#, php-format
+msgid "Jun_June_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Jul_July_abbreviation
+#, php-format
+msgid "Jul_July_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Aug_August_abbreviation
+#, php-format
+msgid "Aug_August_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Sep_September_abbreviation
+#, php-format
+msgid "Sep_September_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Oct_October_abbreviation
+#, php-format
+msgid "Oct_October_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Nov_November_abbreviation
+#, php-format
+msgid "Nov_November_abbreviation"
+msgstr ""
+
+#. [local] wp_locale Dec_December_abbreviation
+#, php-format
+msgid "Dec_December_abbreviation"
+msgstr ""
+
+#. [local] wp_locale am
+#, php-format
+msgid "am"
+msgstr ""
+
+#. [local] wp_locale pm
+#, php-format
+msgid "pm"
+msgstr ""
+
+#. [local] wp_locale AM
+#, php-format
+msgid "AM"
+msgstr ""
+
+#. [local] wp_locale PM
+#, php-format
+msgid "PM"
+msgstr ""
+
+#. [local] wp_locale number_format_thousands_sep
+#, php-format
+msgid "number_format_thousands_sep"
+msgstr ""
+
+#. [local] wp_locale number_format_decimal_point
+#, php-format
+msgid "number_format_decimal_point"
+msgstr ""
+
+#. [local] wp_locale text_direction
+#, php-format
+msgctxt "text direction"
+msgid "text_direction"
+msgstr ""
+
+#. [local] language list title post_selected
+#, php-format
+msgid "Posts selected in %s"
+msgstr ""
+
+#. [local] language list title current_post
+#, php-format
+msgid "Current post in %s"
+msgstr ""
+
+#. [local] language list title latest_posts
+#, php-format
+msgid "Latest posts in %s"
+msgstr ""
+
+#. [local] language list title view_all_posts
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#. [local] shortcode_linked-post-in
+#, php-format
+msgctxt "linktitle"
+msgid "A similar post in %s"
+msgstr ""
+
+#. [local] widget_title
+#, php-format
+msgid "Front app"
+msgstr ""
+
+#. [local] widget_text
+#, php-format
+msgid "[condition='is_front_page' query='cat=20' more='please read more']"
+msgstr ""
+
+#. [local] widget_title
+#, php-format
+msgid "nuage trademark"
+msgstr ""
+
+#. [local] widget_title
+#, php-format
+msgid "last"
+msgstr ""
+
+#. [local] widget_text
+#, php-format
+msgid "[query='cat=20' lang='cur']"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#. [local] get_the_archive_title
+#, php-format
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
