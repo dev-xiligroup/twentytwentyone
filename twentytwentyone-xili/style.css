@@ -46,3 +46,9 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 .widget-area span.radio-lang input {
 	margin-right:3px;
 }
+.site-copyright, .powered-by {
+	font-size: calc(.8 * var(--footer--font-size));
+}
+.site-copyright {
+	font-weight: 600;
+}
