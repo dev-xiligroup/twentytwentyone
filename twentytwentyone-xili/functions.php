@@ -367,7 +367,7 @@ function twentytwentyone_xili_credits() {
 				'br' => array(),
 				'em' => array(),
 			)
-		) . '</span>'
+		) . '.</span>'
 	);
 }
 add_action( 'twentytwentyone_xili_credits', 'twentytwentyone_xili_credits' );
