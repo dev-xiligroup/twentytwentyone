@@ -5,6 +5,8 @@
  * @package dev.xiligroup.com - msc - 2021-04-07 - first implementation (1.2).
  */
 
+define( 'TWENTYTWENTYONE_XILI_VER', '1.2' ); // as parent style.css version !
+
 /**
  * Function twentytwentyone_xilidev_setup [Create child features].
  */
